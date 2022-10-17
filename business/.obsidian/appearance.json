@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Bryans Gruvbox",
+  "enabledCssSnippets": [
+    "test",
+    "front-matter-label-text-size",
+    "frontmatter"
+  ],
+  "translucency": false,
+  "accentColor": ""
+}
